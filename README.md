@@ -84,12 +84,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Kailash18-Tech&theme=dracula&margin-w=15" />
 </p>https://raw.githubusercontent.com/Kailash18-Tech/Kailash18-Tech/main/assets/banner.jpg<img src="https://raw.githubusercontent.com/Kailash18-Tech/Kailash18-Tech/main/assets/banner.jpg" alt="Tech Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm KAILASA MARI M</h1>
-<h3 align="center">Electronics and Communication Engineering Student | Web Developer | Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Aspiring+Engineer;Frontend+Web+Developer;Arduino+Mini+Car+Builder;Tech+Explorer+%26+Learner" />
-</p>
-
----
 
