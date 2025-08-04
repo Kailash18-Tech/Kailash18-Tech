@@ -82,6 +82,5 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kailash18-Tech&theme=dracula&margin-w=15" />
-</p>https://raw.githubusercontent.com/Kailash18-Tech/Kailash18-Tech/main/assets/banner.jpg<img src="https://raw.githubusercontent.com/Kailash18-Tech/Kailash18-Tech/main/assets/banner.jpg" alt="Tech Banner" width="100%" />
 
 
